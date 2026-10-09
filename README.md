@@ -1,21 +1,21 @@
 # Welcome to Onliine!
-The best website that simulates the Wii System to the perfection (almost).
-![Project Logo](https://raw.githubusercontent.com/Ascript89/onliine/main/assets/logotype.png)
+The website that simulates the Wii System to perfection (almost).
+![Project Logo](https://raw.githubusercontent.com/jerosajose/onliine/main/assets/logotype.png)
 
 ## Collaborations
 I'm open to collaborations! Come and join [the Discord server](https://discord.gg/qMdZZkps2E)
 for the project and have a chat with all of us enthusiasts of this project.
 
 ## Status
-This project is on its early phase of development, meaning that is quite incomplete,
-might contain errors, poorly written code and will not focus on performance at the moment.
-Thus, it's a great to start and evolve into something bigger, like a Dolphin VM built into
-WebAssembly (😳), or a real working Wii Shop Channel to download all sorts of apps.
+This project is on its early development phase, meaning that is quite incomplete,
+might contain errors, has poorly written code and hence I will not focus on performance at the moment.
+The project is on a hiatus until I deploy the next update due to me needing to concentrate on ~~my
+ongoing school course~~ university. New stuff coming this summer.
 
-Visit [this website](https://jerosgamer.me/res/sysver.txt) to check the latest version available.
+Visit [this website](https://jerosajose.github.io/res/sysver.txt) to check the latest version available.
 
 ## Updater
-While you tinker with the source code, make sure to often visit the Settings page, which is
+While you tinker with the source code, make sure to visit regularly the Settings page, which is
 in fact an update checker that syncs with my server for new updates and versions to download
 from the GitHub repository.
 
@@ -24,9 +24,9 @@ and merge the new files into your previously/outdated downloaded folder.
 
 ## License
 Onliine Website - Wii System simulator<br>
-Copyright (C) 2023 JerosGamer89<br>
-Legal queries at smartlinkwfs (at/@) gmail.com<br>
-Source: https://github.com/Ascript89/onliine<br>
+Copyright (C) 2024 José Enrique<br>
+Legal queries at smartlinkwfs(at)gmail.com<br>
+Source: https://github.com/jerosajose/onliine<br>
 
 This website is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
